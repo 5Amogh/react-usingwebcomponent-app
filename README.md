@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Using Webcomponent
 
-For now, the script and styles have been directly into `src` of the app and the same have been imported in `App.js`.
+For now, the script and styles have been directly added into `src` folder of the app and the same have been imported in `App.js`.
+
+the mock config data is alread included  `data.json` and same is being sent to the webcomponent.
 
 In case of compilation errors, re-run the app (keep re-running until it works! in case it doesn't compile the first time :))
 
