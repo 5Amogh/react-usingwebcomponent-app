@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Demo React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses webcomponent developed by [https://github.com/5Amogh/questionnaire-player];
+
+## Using Webcomponent
+
+For now, the script and styles have been directly added into `src` folder of the app and the same have been imported in `App.js`.
+
+the mock config data is alread included  `data.json` and same is being sent to the webcomponent.
+
+In case of compilation errors, re-run the app (keep re-running until it works! in case it doesn't compile the first time :))
 
 ## Available Scripts
 
