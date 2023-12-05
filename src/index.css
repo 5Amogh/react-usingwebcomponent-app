@@ -6,9 +6,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: small;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+questionnaire-player-main .custom-font{
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif !important;
+}
+:root{
+  --primary-color:#663399;
+  --btn-outline:#663399;
+  --error-color:rgb(150, 4, 4);
+  --question-tip:gray;
+  --general-btn-text-color:white;
+  --general-btn-hover-bg:white;
+  --secondary-btn-bg:white;
+  --secondary-btn-hover-bg:whitesmoke;
+  --card-bg:white;
+  --disabled-btn-bg:gainsboro;
+  --disabled-btn-text:gray;  
 }
