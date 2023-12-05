@@ -1,7 +1,7 @@
 import "./App.css";
 import React, { useRef, useEffect, useState} from "react";
 import "questionnaire-webcomponent/questionnaire-player-webcomponent.js";
-import "./web-component/styles.css";
+import "questionnaire-webcomponent/styles.css";
 import mockData from "./data.json";
 function App() {
   const questionairePlayerMainRef = useRef(null);
